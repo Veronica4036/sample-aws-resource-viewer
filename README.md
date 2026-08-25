@@ -68,7 +68,7 @@ calling dozens of per-service list APIs.
 ## Quick start 
 
 ```
-git clone <this-repo>
+git clone https://github.com/aws-samples/sample-aws-resource-viewer.git
 cd sample-aws-resource-viewer
 npm install
 npm start
